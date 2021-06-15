@@ -1,5 +1,4 @@
 # Python-ETL-Solution-Design-Implementation
-
 • “Fire Brigade and Ambulance Call Outs” dataset is used in this project for performing the ETL process.
 • Performed data preparation process on Python (Panda).
 • Improved the data quality while loading data into the Data warehouse.
